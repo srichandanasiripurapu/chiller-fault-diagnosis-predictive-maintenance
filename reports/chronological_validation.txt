@@ -1,0 +1,29 @@
+Accuracy: 0.996456
+Macro F1: 0.996422
+
+              precision    recall  f1-score   support
+
+          cf       1.00      1.00      1.00      7962
+          eo       1.00      1.00      1.00      7967
+         fwc       1.00      1.00      1.00      7969
+         fwe       1.00      1.00      1.00      8110
+          nc       0.99      1.00      1.00      7966
+      normal       1.00      0.97      0.99      7881
+          rl       1.00      1.00      1.00      7962
+          ro       0.98      1.00      0.99      7952
+
+    accuracy                           1.00     63769
+   macro avg       1.00      1.00      1.00     63769
+weighted avg       1.00      1.00      1.00     63769
+
+
+Confusion matrix (actual rows, predicted columns):
+          cf    eo   fwc   fwe    nc  normal    rl    ro
+cf      7962     0     0     0     0       0     0     0
+eo         0  7967     0     0     0       0     0     0
+fwc        0     0  7969     0     0       0     0     0
+fwe        0     0     0  8110     0       0     0     0
+nc         0     0     0     0  7966       0     0     0
+normal     0     0     1     3    41    7655     7   174
+rl         0     0     0     0     0       0  7962     0
+ro         0     0     0     0     0       0     0  7952

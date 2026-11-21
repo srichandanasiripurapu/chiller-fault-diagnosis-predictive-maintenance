@@ -1,0 +1,29 @@
+CHILLER FAULT DIAGNOSIS - DATA ANALYSIS
+==================================================
+
+FAULT CATEGORY COUNTS
+fault
+cf    100000
+
+SEVERITY LEVEL COUNTS
+severity_level
+1    100000
+
+FAULT BY SEVERITY
+severity_level       1     All
+fault                         
+cf              100000  100000
+All             100000  100000
+
+SOURCE FILE COUNTS
+source_file
+synthetic_cf    100000
+
+PATH LABEL COUNTS
+path_label
+cf/1    100000
+
+TIME INFORMATION
+Unique times: 100000
+Minimum time: 0
+Maximum time: 999990
