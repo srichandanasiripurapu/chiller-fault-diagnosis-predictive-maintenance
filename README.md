@@ -55,6 +55,10 @@ Five classification algorithms were evaluated:
 
 ![SHAP Feature Contributions](images/SHAP%20Values.png)
 
+### Live Dashboard
+
+![Chiller Fault Diagnosis Dashboard](images/dashboard-homepage.png)
+
 | Model | Accuracy | Macro F1 | Training Time |
 |---|---:|---:|---:|
 | Logistic Regression | 99.22% | 99.21% | 16.77 s |
