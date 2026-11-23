@@ -47,7 +47,9 @@ Five classification algorithms were evaluated:
 
 ### Model Comparison Results
 ![Model Comparison Graph](images/model%20comparision%20.png)
-All five models used the same training and test row counts.
+
+### Confusion Matrix
+![Confusion Matrix Heatmap](images/Confusion%20Matrix.png)
 
 | Model | Accuracy | Macro F1 | Training Time |
 |---|---:|---:|---:|
