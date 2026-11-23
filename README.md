@@ -59,6 +59,12 @@ Five classification algorithms were evaluated:
 
 ![Chiller Fault Diagnosis Dashboard](images/dashboard-homepage.png)
 
+## Project Demo
+
+The application allows users to enter chiller sensor readings and receive fault predictions from five machine learning models. It also provides model explanations using SHAP and maintenance-oriented insights.
+
+**Live Application:** [Open Chiller Fault Diagnosis Dashboard](https://chiller-fault-diagnosis-predictive-maintenance-hdfhnktdnqrnlnz.streamlit.app/)
+
 | Model | Accuracy | Macro F1 | Training Time |
 |---|---:|---:|---:|
 | Logistic Regression | 99.22% | 99.21% | 16.77 s |
