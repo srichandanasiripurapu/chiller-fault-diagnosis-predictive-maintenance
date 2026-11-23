@@ -8,6 +8,10 @@ This project explores how machine learning can support chiller fault diagnosis a
 
 The dataset preparation process produced an 8-million-row sample with 24 columns. The model comparison experiment used a separate dataset split containing 255,900 training rows and 64,100 test rows per model.
 
+## System Architecture
+
+![Chiller Fault Diagnosis Project Architecture](images/project_architecture.png)
+
 ## Key Features
 
 - Chiller sensor data preparation and validation
