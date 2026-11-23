@@ -51,6 +51,10 @@ Five classification algorithms were evaluated:
 ### Confusion Matrix
 ![Confusion Matrix Heatmap](images/Confusion%20Matrix.png)
 
+### SHAP Feature Contributions
+
+![SHAP Feature Contributions](images/SHAP%20Values.png)
+
 | Model | Accuracy | Macro F1 | Training Time |
 |---|---:|---:|---:|
 | Logistic Regression | 99.22% | 99.21% | 16.77 s |
