@@ -10,7 +10,7 @@ The dataset preparation process produced an 8-million-row sample with 24 columns
 
 ## System Architecture
 
-![Chiller Fault Diagnosis Project Architecture](images/project_architecture.png)
+![Chiller Fault Diagnosis Project Architecture](images/mermaid-diagram.png)
 
 ## Key Features
 
