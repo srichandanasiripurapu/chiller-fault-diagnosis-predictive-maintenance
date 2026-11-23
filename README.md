@@ -46,7 +46,7 @@ Five classification algorithms were evaluated:
 - LightGBM
 
 ### Model Comparison Results
-
+![Model Comparison Graph](images/model%20comparision%20.png)
 All five models used the same training and test row counts.
 
 | Model | Accuracy | Macro F1 | Training Time |
