@@ -49,7 +49,7 @@ Five classification algorithms were evaluated:
 ![Model Comparison Graph](images/model%20comparision%20.png)
 
 ### Confusion Matrix
-![Confusion Matrix Heatmap](images/Confusion%20Matrix.png)
+![Confusion Matrix Heatmap](images/Confusion%20%20Matrix.png)
 
 ### SHAP Feature Contributions
 
